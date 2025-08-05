@@ -15,10 +15,10 @@ url: .
 # --------------------------------------------------
 owner:
   name: Zhang CHEN
-  avatar: ./1_personal profile picture.jpg
+  avatar: 1_personal profile picture.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: chenzhang0920@qq.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: ./file/Chenzhang_CV.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -40,7 +40,7 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
