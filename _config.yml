@@ -18,12 +18,13 @@ owner:
   avatar: 1_personal profile picture.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: chenzhang0920@qq.com
-  cv: ./file/Chenzhang_CV.pdf
+  # cv: ./file/Chenzhang_CV.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  github: chenzhang0920
+  # github: chenzhang0920
+  Scopus: 
   ORCID: chenzhang0920
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
