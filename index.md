@@ -8,7 +8,7 @@ layout: page
 <img src="./images/1_personal profile picture.jpg" class="floatpic">
 -->
 
-Hi, here is **Zhang CHEN (陈长)**.<br>
+Hi, here is **Zhang CHEN (陈长)**.
 
 I am a PhD student in the [III-V Device Group](https://personal.hkust-gz.edu.cn/renjiewang/#/offline/rlKIqrQFaY3?cps=hide&rps=hide&nav=0&ha=0&la=0&fc=0&out=0&rt=0) at The Hong Kong University of Science and Technology (Guang Zhou), supervised by [Prof. Renjie WANG](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=256).
 
