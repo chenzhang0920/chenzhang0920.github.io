@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+<!-- > (†: equal contribution, ~: corresponding author) -->
 
 ## Journal Paper
 
@@ -20,7 +20,7 @@ title: Publications
 
 
 
-- [Remaining useful life prediction of lithium-ion battery via a sequence decomposition and deep learning integrated approach](https://doi.org/10.1109/TVT.2021.3134312)<br>**Z. Chen**, L. Chen, W. Shen, and K. Xu<br>Energy. 2023, 277:127633<br>
+- [Remaining useful life prediction of lithium-ion battery via a sequence decomposition and deep learning integrated approach](https://doi.org/10.1109/TVT.2021.3134312)<br>**Z. Chen**, L. Chen, W. Shen, and K. Xu<br>IEEE Trans. Veh. Technol. 2022, 71(2):1466-1479.<br>
 
 
 ## Conference Paper
@@ -32,7 +32,7 @@ title: Publications
 
 ## Degree Thesis
 
-- Li-ion battery aging modeling and life prediction based on machine learning<br>**Zhang Chen** (Advisor: Wenjing Shen).**SZU Excellent Master's Thesis (深圳大学百篇优秀硕士学位论文)**
+- Li-ion battery aging modeling and life prediction based on machine learning<br>**Zhang Chen** (Advisor: Wenjing Shen).<br>**SZU Excellent Master's Thesis (深圳大学百篇优秀硕士学位论文)**
 
 
 
