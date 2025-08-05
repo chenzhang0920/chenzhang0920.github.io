@@ -4,7 +4,9 @@ layout: page
 
 # About Me
 
+<!--
 <img src="./images/1_personal profile picture.jpg" class="floatpic">
+-->
 
 Here is **Zhang CHEN (陈长)**.<br>
 
