@@ -32,7 +32,7 @@ title: Publications
 
 ## Degree Thesis
 
-- Li-ion battery aging modeling and life prediction based on machine learning<br>**Zhang Chen** (Advisor: Wenjing Shen).<br>**SZU Excellent Master's Thesis (深圳大学百篇优秀硕士学位论文)**
+- Li-ion battery aging modeling and life prediction based on machine learning<br>**Zhang Chen** (Advisor: Wenjing Shen).<br>**SZU Excellent Master's Thesis (深圳大学百篇优秀硕士学位论文)**<br>
 
 
 
